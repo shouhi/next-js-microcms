@@ -1,0 +1,9 @@
+# Next.js
+/.next
+/public
+
+# config
+*.config.js
+.eslintrc.js
+
+src/utils/$path.ts

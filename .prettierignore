@@ -1,0 +1,4 @@
+.next
+public
+src/utils/$path.ts
+*.config.js
